@@ -1,5 +1,7 @@
 # Anastasia Mikhailova
 
+![This is me!](https://avatars.githubusercontent.com/u/87999189?v=4)
+
 > If you're the smartest person in the room, you're in the wrong room
 
 ## Junior Frontend-developer
